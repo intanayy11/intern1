@@ -1,2 +1,4 @@
-print("masukan nama")
+print("masukan nama anda")
+print("nama kamu")
+
 
